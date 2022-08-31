@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**viniciuswl/viniciuswl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, meu nome é Wilson!
 
-Here are some ideas to get you started:
+Estudo programação a 4 anos e estou atualmente no 6º período da faculdade de análise e desenvolvimento de sistemas. Busco oportunidades profissionais na área de desenvolvimento. Tenho facilidade em aprender e me adaptar a novas tecnologias, e estou extremamente motivado a sempre continuar desenvolvendo os meus conhecimentos e as minhas habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho conhecimentos em:
+- JavaScript e o NodeJS
+- Montagens de APIs REST seguras com o Express
+- Bancos de dados relacionais como  o MySQL e o PostgreSQL e não relacionais como o MongoDB
+- Documentações feitas com o Swagger
+- Mensageria com o RabbitMQ
+- Docker
+- Storage com o Amazon S3
+- Git
+- React
+
+Tenho tido mais foco no aprendizado de JavaScript em tempos recentes, mas também tenho familiaridade com Java e co
