@@ -14,4 +14,4 @@ Tenho conhecimentos em:
 - Git
 - React
 
-Tenho tido mais foco no aprendizado de JavaScript em tempos recentes, mas também tenho familiaridade com Java e co
+Tenho tido mais foco no aprendizado de JavaScript em tempos recentes, mas também tenho familiaridade com Java e com Python.
